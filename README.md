@@ -30,19 +30,16 @@ The objective of this project was to:
 Quantium-Virtual-Internship/
 │
 ├── Task 1/
-│   ├── Customer & Category Analysis
-│   ├── Data Cleaning
-│   ├── Exploratory Data Analysis
-│   └── Customer Segmentation
+│   ├── Praveen_Patil_Quantium_Task1_Code.R
+│   ├── QVI_purchase_behaviour
+│   ├── QVI_transaction_data
 │
 ├── Task 2/
-│   ├── Trial Store Analysis
-│   ├── Control Store Selection
-│   ├── Sales Performance Analysis
-│   └── Customer Performance Analysis
+│   ├── Praveen_Patil_Quantium_Task2_Code.R
+│   ├── QVI_data
 │
 ├── Task 3/
-│   └── Final Presentation Report.pdf
+│   └── QUANTUM_DA_INTERNSHIP
 │
 └── README.md
 ```
